@@ -11,6 +11,8 @@ Using MetaTrader module for integration with Python via interprocessor communica
 
 -Right now it only manages one position at the same time in the chosen symbol.
 
+-Please check official documentation: https://www.mql5.com/en/docs/integration/python_metatrader5
+
 # Algorithmic-Trading-with-Python-and-Metatrader-5 (Spanish version)
 
 Plantilla para hacer trading con Python via Metatrader 5. Sin necesidad de conectores.
@@ -22,3 +24,7 @@ Utiliza el módulo MetaTrader para la integración con Python a través de la co
 -La estrategia abre y cierra posiciones en base a números aleatorios. Por favor pruébalo solo en demo.
 
 -Ahora mismo solo gestiona una posición al mismo tiempo en el símbolo elegido.
+
+-La documentación oficial está disponible en: https://www.mql5.com/en/docs/integration/python_metatrader5
+
+
