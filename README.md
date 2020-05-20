@@ -1,4 +1,4 @@
-# Algorithmic-Trading-with-Python-and-Metatrader-5
+# Algorithmic-Trading-with-Python-and-Metatrader-5 (English version)
 Using MetaTrader module for integration with Python via interprocessor communication directly from the MetaTrader 5 terminal.
 
 -It requires Metatrader 5 installed and the path to the executable, your user, password and server. Just the same used in the terminal.
@@ -7,7 +7,7 @@ Using MetaTrader module for integration with Python via interprocessor communica
 
 -Right now it only manages one position at the same time in the chosen symbol.
 
-# Algorithmic-Trading-with-Python-and-Metatrader-5
+# Algorithmic-Trading-with-Python-and-Metatrader-5 (Spanish version)
 Utiliza el módulo MetaTrader para la integración con Python a través de la comunicación entre procesadores directamente desde el terminal MetaTrader 5.
 
 -Requiere que Metatrader 5 esté instalado y la ruta al ejecutable, su usuario, contraseña y servidor. El mismo que en la terminal.
