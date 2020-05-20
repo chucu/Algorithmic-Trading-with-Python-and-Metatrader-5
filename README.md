@@ -1,3 +1,6 @@
+Template to trade with Python via Metatrader 5. No connector is needed.
+Plantilla para hacer trading con Python via Metatrader 5. Sin necesidad de conectores.
+
 # Algorithmic-Trading-with-Python-and-Metatrader-5 (English version)
 Using MetaTrader module for integration with Python via interprocessor communication directly from the MetaTrader 5 terminal.
 
