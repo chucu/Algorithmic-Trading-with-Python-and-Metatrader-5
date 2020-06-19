@@ -3,7 +3,7 @@
 
 #Author:  @dreso_fx (telegram)
 #github repo: https://github.com/dreso/Algorithmic-Trading-with-Python-and-Metatrader-5
-#donate BTC bc1qg2jkt802d2q3e66h760t2krsz7k6lx6ka6qz9j  xD
+#donate BTC bc1qg2jkt802d2q3e66h760t2krsz7k6lx6ka6qz9j
 
 
 from datetime import datetime
